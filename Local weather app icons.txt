@@ -1,0 +1,47 @@
+Thunderstorm
+ID: 200 201 202 210 211 212 221 230 231 232
+
+Drizzle
+ID: 300 301 302 310 311 312 313 314 321
+
+Rain
+ID: 500 501 502 503 504 511 520 521 522 531
+
+Snow
+ID: 6XX
+
+Mist
+ID: 7XX
+
+Clear
+ID : 800 801
+
+Scattered clouds
+ID: 802
+
+Heavy clouds
+803, 804
+
+High wind, tornado
+900 901 902 905 956-962
+
+903
+cold
+904
+hot
+906
+hail
+
+
+951
+calm
+952
+light breeze
+953
+gentle breeze
+954
+moderate breeze
+955
+fresh breeze
+
+https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
